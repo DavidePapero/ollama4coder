@@ -5,7 +5,9 @@
 
 ## Analizza il tuo codice
 
-Questo progetto è un wrapper su Ollama per facilitare l'analisi di codice. In questa prima è pensato per il codice python. Successivamente forse aggiungerò altri linguaggi.
+Questo progetto è un wrapper su Ollama per facilitare l'analisi di codice. 
+In questa prima versione è pensato per gestire il codice python. 
+Successivamente *forse* aggiungerò altri linguaggi.
 
 ## Prerequisiti
 
@@ -13,7 +15,8 @@ Nella macchina in cui gira è necessario sia installato il Ollama, Python aggior
 
 ## Prima analisi
 
-Una volta installato Ollama bisogna scaricare i modelli. Poi si può analizzare con un modello passandone il nome
+Una volta installato Ollama bisogna scaricare i modelli. 
+Fatto questo si può analizzare un file o una directory contenente file passandone il path.
 
 ```python
 import ollama4coder
@@ -22,6 +25,3 @@ analyzer = ollama4coder.OllamaForCoder()
 model_response = analyzer.process_analysis(model_name, path_file_python)
 print(model_response)
 ```
-
-you compile the docker image and install the relevant container.
-Attention you need to configure the volume. In my case the backup files are placed on the host machine in a specific folder. This path must be aligned with the path that appears in the config.json to the "backup_file" and "backup_path" entries

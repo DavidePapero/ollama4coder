@@ -28,6 +28,6 @@ print(model_response)
 
 ## Related articles::
 
-[Primo articolo su questa libreria](https://www.linkedin.com/pulse/ ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
+[Primo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
 
 [First article on this library](https://www.linkedin.com/pulse/budget-friendly-ai-how-run-large-language-models-free-infantino-nidoe)

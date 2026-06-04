@@ -29,4 +29,4 @@ print(model_response)
 ## Articoli collegati:
 
 
-[Primo articolo su questa libreria](https://www.linkedin.com/pulse/ ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
+[Primo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)

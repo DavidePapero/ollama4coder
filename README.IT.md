@@ -25,3 +25,8 @@ analyzer = ollama4coder.OllamaForCoder()
 model_response = analyzer.process_analysis(model_name, path_file_python)
 print(model_response)
 ```
+
+## Articoli collegati:
+
+
+[Primo articolo su questa libreria](https://www.linkedin.com/pulse/ ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)

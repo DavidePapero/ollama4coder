@@ -25,4 +25,4 @@ print(model_response)
 ## Articoli collegati:
 
 [Primo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
-[Secondo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
+[Secondo articolo su questa libreria](https://www.linkedin.com/posts/davideinfantino_la-lingua-degli-llm-activity-7471882016066830336-LVhJ)

@@ -1,13 +1,9 @@
-[![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/DavidePapero/AutomateMySlqBackup/LICENSE)
-[![ciccio](https://img.shields.io/badge/Status-project_in_beta-blue)](https://github.com/DavidePapero/AutomateMySlqBackup/new/main)
-
 *Leggi questo in un'altra lingua: [Italian](README.IT.md).*
 
 ## Analyze your code
 
-This project is a wrapper on Ollama to facilitate code analysis.
-In this first version it is designed to manage Python code.
-Later *maybe* I'll add more languages.
+This project is used to have attachments on posts on Linkedin.
+They are informative posts that have no intention of being scientific.
 
 ## Prerequisites
 

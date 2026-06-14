@@ -1,17 +1,13 @@
-[![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/DavidePapero/AutomateMySlqBackup/LICENSE)
-[![ciccio](https://img.shields.io/badge/Status-project_in_beta-blue)](https://github.com/DavidePapero/AutomateMySlqBackup/new/main)
-
 *Read this in other languages: [English](README.md).*
 
-## Analizza il tuo codice
+## Test con LLM Locali
 
-Questo progetto è un wrapper su Ollama per facilitare l'analisi di codice. 
-In questa prima versione è pensato per gestire il codice python. 
-Successivamente *forse* aggiungerò altri linguaggi.
+Questo progetto serve per avere allegati su dei post su Linkedin.
+Sono post divulgativi che non hanno intenzione di essere scientifici.
 
 ## Prerequisiti
 
-Nella macchina in cui gira è necessario sia installato il Ollama, Python aggiornato e la libreria di python Ollama
+Ollama, updated Python and the Ollama python library must be installed on the machine it runs on.
 
 ## Prima analisi
 
@@ -28,5 +24,5 @@ print(model_response)
 
 ## Articoli collegati:
 
-
 [Primo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)
+[Secondo articolo su questa libreria](https://www.linkedin.com/pulse/ai-per-poveracci-come-usare-i-modelli-linguistici-locale-infantino-iybne)

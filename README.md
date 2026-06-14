@@ -25,4 +25,5 @@ print(model_response)
 ## Related articles::
 
 [First article on this library](https://www.linkedin.com/pulse/budget-friendly-ai-how-run-large-language-models-free-infantino-nidoe)
+
 [Second article on this library](https://www.linkedin.com/posts/davideinfantino_speaking-the-language-of-ai-activity-7471894617056202752-74kD)

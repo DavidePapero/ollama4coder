@@ -1,0 +1,6 @@
+ollama
+chromadb
+fastapi
+uvicorn
+pydantic
+httpx

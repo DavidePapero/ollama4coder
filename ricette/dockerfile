@@ -1,0 +1,12 @@
+FROM python:3.14
+
+WORKDIR /root
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY *.py .
+COPY favicon.ico .
+COPY ricette.json .
+
+CMD ["python", "-u", "init.py"]
